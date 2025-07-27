@@ -35,3 +35,6 @@ function filter(arr, fn) {
     // Return the new array with filtered elements
     return result;
 }
+
+// Time Complexity	O(n)
+// Space Complexity	O(n)
